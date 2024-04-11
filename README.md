@@ -20,7 +20,7 @@
 | Vertical resize | ![WB1 Normal](WB1.0-Normal/amiga_wb1_vertical.cur)|![WB1 Normal](WB1.0-Mini/amiga_wb1_mini_vertical.cur) | ![WB13 Normal](WB1.3-Normal/amiga_wb13_vertical.cur)|![WB13 Normal](WB1.3-Mini/amiga_wb13_mini_vertical.cur) | ![WB2 Normal](WB2.0-Normal/amiga_wb2_vertical.cur)|![WB2 Normal](WB2.0-Mini/amiga_wb2_mini_vertical.cur) |
 | Working in background | ![WB1 Normal](WB1.0-Normal/amiga_wb1_work.cur)|![WB1 Normal](WB1.0-Mini/amiga_wb1_mini_work.cur) | ![WB13 Normal](WB1.3-Normal/amiga_wb13_work.cur)|![WB13 Normal](WB1.3-Mini/amiga_wb13_mini_work.cur) | ![WB2 Normal](WB2.0-Normal/amiga_wb2_work.cur)|![WB2 Normal](WB2.0-Mini/amiga_wb2_mini_work.cur) |
 
-# Installing On Window
+# Installing On Windows
 To install these on Windows 10 open the directory in file explorer that you
 which to install.  Find the install.inf file and select it.  Right click on it
 and select "Install" from the popup menu.
