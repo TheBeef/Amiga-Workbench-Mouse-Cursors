@@ -19,3 +19,18 @@
 | Unavailable | ![WB1 Normal](WB1.0-Normal/amiga_wb1_unavailable.cur)|![WB1 Normal](WB1.0-Mini/amiga_wb1_mini_unavailable.cur) | ![WB13 Normal](WB1.3-Normal/amiga_wb13_unavailable.cur)|![WB13 Normal](WB1.3-Mini/amiga_wb13_mini_unavailable.cur) | ![WB2 Normal](WB2.0-Normal/amiga_wb2_unavailable.cur)|![WB2 Normal](WB2.0-Mini/amiga_wb2_mini_unavailable.cur) |
 | Vertical resize | ![WB1 Normal](WB1.0-Normal/amiga_wb1_vertical.cur)|![WB1 Normal](WB1.0-Mini/amiga_wb1_mini_vertical.cur) | ![WB13 Normal](WB1.3-Normal/amiga_wb13_vertical.cur)|![WB13 Normal](WB1.3-Mini/amiga_wb13_mini_vertical.cur) | ![WB2 Normal](WB2.0-Normal/amiga_wb2_vertical.cur)|![WB2 Normal](WB2.0-Mini/amiga_wb2_mini_vertical.cur) |
 | Working in background | ![WB1 Normal](WB1.0-Normal/amiga_wb1_work.cur)|![WB1 Normal](WB1.0-Mini/amiga_wb1_mini_work.cur) | ![WB13 Normal](WB1.3-Normal/amiga_wb13_work.cur)|![WB13 Normal](WB1.3-Mini/amiga_wb13_mini_work.cur) | ![WB2 Normal](WB2.0-Normal/amiga_wb2_work.cur)|![WB2 Normal](WB2.0-Mini/amiga_wb2_mini_work.cur) |
+
+# Installing On Window
+To install these on Windows 10 open the directory in file explorer that you
+which to install.  Find the install.inf file and select it.  Right click on it
+and select "Install" from the popup menu.
+
+This will make the cursors availalbe on the system.  You now have to open
+Windows settings and goto "Personalization -> Themes".  From there you click on
+the "Mouse cursor" under the "Current theme" (beside the preview).  Using the
+"Scheme" pull down select the Amiga cursor set you want to use.
+
+## Updating
+If you want to update to a new version, you do the same steps as above, except
+you need to change to a different "Scheme" apply it, and then go back in
+and select the Amiga version.
