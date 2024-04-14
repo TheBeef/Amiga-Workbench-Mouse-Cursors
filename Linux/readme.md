@@ -5,3 +5,4 @@ Currently just RND() notes:
      * source .venv/bin/activate
      * python3 -m pip install win2xcur
  * https://askubuntu.com/questions/823656/where-are-cursor-icons-stored-on-ubuntu-16-04
+ * Had to be installed in "/usr/share/icons" for it to work
