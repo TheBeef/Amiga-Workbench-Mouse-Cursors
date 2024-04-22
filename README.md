@@ -25,12 +25,12 @@ To install these on Windows 10 open the directory in file explorer that you
 which to install.  Find the install.inf file and select it.  Right click on it
 and select "Install" from the popup menu.
 
-This will make the cursors availalbe on the system.  You now have to open
+This will make the cursors available on the system.  You now have to open
 Windows settings and goto "Personalization -> Themes".  From there you click on
 the "Mouse cursor" under the "Current theme" (beside the preview).  Using the
 "Scheme" pull down select the Amiga cursor set you want to use.
 
 ## Updating
 If you want to update to a new version, you do the same steps as above, except
-you need to change to a different "Scheme" apply it, and then go back in
+you need to change to a different "Scheme" first (default for example) and then apply it. Go back in
 and select the Amiga version.
